@@ -48,15 +48,29 @@ The application will be available at [https://code-ant-ai-mu.vercel.app/](https:
 
 ### Desktop View:
 
-*(Add screenshots here)*
+<div align="center">
+    <img src="https://github.com/abhi-shek-86/CodeAnt_AI/blob/main/Desktop%20Frontend_login%20page.png" alt="Desktop Frontend Login Page" width="500" style="margin-right: 20px;">
+    <img src="https://github.com/abhi-shek-86/CodeAnt_AI/blob/main/Desktop%20Frontend_view.jpeg" alt="Desktop Frontend View" width="500" style="margin-left: 20px;">
+</div>
+
+
+
 
 ### Mobile View - Repositories:
 
-*(Add screenshots here)*
+
+Below are 3 images displayed side by side:
+
+<div align="center">
+    <img src="https://github.com/abhi-shek-86/CodeAnt_AI/blob/main/Mobile_Frontend_login_Page.png" alt="Image 1" width="200" style="margin: 10px;">
+    <img src="https://github.com/abhi-shek-86/CodeAnt_AI/blob/main/Mobile_view_frontend_login.png" alt="Image 2" width="200" style="margin: 10px;">
+    <img src="https://github.com/abhi-shek-86/CodeAnt_AI/blob/main/Mobile_frontend_Dashboard.png" alt="Image 3" width="200" style="margin: 10px;">
+</div>
+
 
 ### Mobile View - Sidebar:
+![Image 1](https://github.com/abhi-shek-86/CodeAnt_AI/blob/main/Mobile_frontend_sidebar.png)
 
-*(Add screenshots here)*
 
 ## 🌍 Best Practices
 
